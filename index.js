@@ -8,7 +8,7 @@ const accessInternet = new TavilySearch({
   maxResult: 5,
   topic: "news",
   searchdepth: "Advance",
-  tavilyApiKey: "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",
+  tavilyApiKey: "",
 
 })
 
